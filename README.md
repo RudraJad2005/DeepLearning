@@ -85,7 +85,7 @@ After studying these notebooks, you will understand:
 1. **Sequential Learning**: Start with `Intro_to_Pytorch.ipynb`, then move to architecture and training notebooks
 2. **Hands-On Practice**: Run each code cell to see outputs and experiment
 3. **Comprehensive Explanations**: Each code example has detailed markdown explanations
-4. **Mathematical Context**: Key formulas are included with LaTeX formatting
+4. **Mathematical Context**: Key formulas are included with LaTeX formatting.
 
 ## 🚀 Getting Started
 
