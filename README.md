@@ -31,7 +31,7 @@ Topics covered:
 - **Hyperparameters**: Understanding depth, width, and activation choices
 - **One-Hot Encoding**: Label encoding techniques
 - **Accessing Model Parameters**: Working with weights and biases
-- **Gradient Descent**: Manual weight updates using gradients
+- **Gradient Descent**: Manual weight updates using gradients.
 
 Architecture patterns:
 - **Binary Classification**: Sigmoid activation with 1 output
