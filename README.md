@@ -151,7 +151,7 @@ python -m venv .venv
 
 4. Install required packages:
 ```bashpandas 
-pip install torch numpy ipykernel jupyter
+pip install torch numpy ipykernel jupyter pandas
 ```
 
 5. Launch Jupyter:
