@@ -230,7 +230,6 @@ These are personal study notes, but suggestions and improvements are welcome! Fe
 ## 📧 Contact
 
 Created by Rudra Jadhav
-3
 ---
 
 ⭐ **Star this repository if you find these notes helpful!**
